@@ -1,0 +1,10 @@
+{
+  "image": "car.jpg",
+  "label": "object",
+  "bbox": [
+    0,
+    0,
+    11,
+    10
+  ]
+}
